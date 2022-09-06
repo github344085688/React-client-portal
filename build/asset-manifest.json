@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4773d3fb.chunk.css",
+    "main.js": "/static/js/main.dbf1d93c.chunk.js",
+    "main.js.map": "/static/js/main.dbf1d93c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.31e8c6c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.31e8c6c2.js.map",
+    "static/js/2.4c787134.chunk.js": "/static/js/2.4c787134.chunk.js",
+    "static/js/2.4c787134.chunk.js.map": "/static/js/2.4c787134.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4773d3fb.chunk.css.map": "/static/css/main.4773d3fb.chunk.css.map",
+    "static/js/2.4c787134.chunk.js.LICENSE.txt": "/static/js/2.4c787134.chunk.js.LICENSE.txt",
+    "static/media/MessageCenter.8c613776.svg": "/static/media/MessageCenter.8c613776.svg",
+    "static/media/arrow-down.8627bcb9.svg": "/static/media/arrow-down.8627bcb9.svg",
+    "static/media/brokerage.ff1e9450.svg": "/static/media/brokerage.ff1e9450.svg",
+    "static/media/businessInfo.d4de9fad.svg": "/static/media/businessInfo.d4de9fad.svg",
+    "static/media/dashboard.528e48a4.svg": "/static/media/dashboard.528e48a4.svg",
+    "static/media/logo-nano.dbe69eff.svg": "/static/media/logo-nano.dbe69eff.svg",
+    "static/media/logo.f7f4cf81.svg": "/static/media/logo.f7f4cf81.svg",
+    "static/media/payments.b3c40178.svg": "/static/media/payments.b3c40178.svg",
+    "static/media/service.37a1335f.svg": "/static/media/service.37a1335f.svg",
+    "static/media/setting.565edb11.svg": "/static/media/setting.565edb11.svg",
+    "static/media/tms2.e182319d.svg": "/static/media/tms2.e182319d.svg",
+    "static/media/unis.css": "/static/media/toolttipl.27c06aa4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31e8c6c2.js",
+    "static/js/2.4c787134.chunk.js",
+    "static/css/main.4773d3fb.chunk.css",
+    "static/js/main.dbf1d93c.chunk.js"
+  ]
+}
